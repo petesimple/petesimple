@@ -22,7 +22,7 @@ Welcome to the most organized chaos this side of the codebase.
 
 ## 📫 How to reach me...
 - Carrier pigeon: Not reliable.
-- Email: 📩 petesimple@gmail.com
+- Email: 📩 petesimple at gmail.com
 - Smoke signal: Only available during burn bans.
 - [helpmegig.com](https://www.helpmegig.com) if you're trying to jam.
 
